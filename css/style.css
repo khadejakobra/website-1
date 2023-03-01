@@ -1,0 +1,16 @@
+h2 {
+    color:rgb(1, 2, 4);
+    background-color: rgb(75, 192, 196);
+    background-image: url("paper.gif");
+    text-align: center;
+    text-shadow: 2px 2px rgb(173, 116, 116);
+}
+h1 {
+    background-color: aquamarine;
+    color:brown;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+}
